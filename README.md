@@ -19,6 +19,6 @@ DISCORD WEBHOOK IMAGES URL / RESİMLER URL
 STEAM NOT FOUND / STEAM BULUNAMADI
 https://www.linkpicture.com/q/Screenshot_2_68.png
 
-ANTI MULTI LOGIN / FAZLADAN HESAP KARŞITI
+ANTI MULTI LOGIN / FAZLADAN HESAP KARSITI
 https://www.linkpicture.com/q/Screenshot_1_177.png
 -------------------------------------------------------------------------------------------------------------------------------
