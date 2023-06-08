@@ -16,7 +16,7 @@ MEK91_AMA.DiscordWebhookName = "YOUR_SERVER_NAME" -- EN: Just Type Server Name! 
 MEK91_AMA.DiscordWebhookAvatarUrl = "YOUR_SERVER_LOGO_URL" -- EN: Just Write Your Server's Logo Link Extension (Optional) | TR: Sadece Sunucunun Logo Bağlantı Uzantısını Yaz! (İsteğe Bağlı)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 -- VERSION: 1.0.0
--- Discord: 'Mek91#9959
+-- Discord: mek91
 -- Github:  https://github.com/Mek91
 -- YouTube: https://www.youtube.com/@mek91
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
